@@ -1,0 +1,18 @@
+.box1 {
+    width: 218px;
+    height: 218px;
+    background-color: red;
+    float: left;
+}
+
+.box2 {
+    width: 218px;
+    height: 218px;
+    background-color: blue;
+    float: right;
+}
+
+
+body {
+    margin: 0;
+}
